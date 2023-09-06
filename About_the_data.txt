@@ -1,0 +1,55 @@
+The Data is taken from https://data.gov/
+
+Crime Data from 2020 to Present
+
+( Data description as on its source page -- This dataset reflects incidents of crime in the City of Los Angeles dating back to 2020. This data is transcribed from original crime reports that are typed on paper and therefore there may be some inaccuracies within the data. Some location fields with missing data are noted as (0°, 0°). Address fields are only provided to the nearest hundred block in order to maintain privacy. This data is as accurate as the data in the database. Please note questions or concerns in the comments. )
+
+DR_NO - "Docket or Document Reference Number" or "Dispatch Record Number." This number is used to uniquely identify and track a specific incident or case within the law enforcement system.
+
+Date Rptd - It refers to the date on which a particular incident or crime was reported to the police or law enforcement agency. 
+
+DATE OCC -  It refers to the specific date when a particular incident or crime occurred. 
+
+TIME OCC - It refers to the specific time of day when a particular incident or crime occurred.
+
+AREA NAME - This  typically contains the name or designation of the geographic or jurisdictional area where a specific incident or crime occurred.
+
+Rpt Dist No - This field is used to identify the specific district or reporting district associated with a particular incident or crime report.
+
+Part 1-2 - "Part 1" and "Part 2" offenses are categories used in the Uniform Crime Reporting (UCR) program in the United States to classify and report different types of crimes.
+* Part 1 offenses, also known as index crimes, are considered more serious and include crimes against persons and property. 
+* Part 2 offenses are a broader category that encompasses all other reported crimes not classified as Part 1 offenses.
+
+Crm Cd - The Crime Code is a numerical or alphanumeric code used to classify and categorize specific criminal offenses or incidents.
+
+Crm Cd Desc - Crime Code Description, this field is used to provide a detailed description or explanation of the specific criminal offense or incident associated with a crime code.
+
+Mocodes - 
+
+Vict Age - Victim's Age, this field records the age of the victim involved in a specific criminal incident.
+
+Vict Sex - Victim's Sex, this field records the gender or biological sex of the victim involved in a specific criminal incident. 
+
+Vict Descent - Victim's Descent, this field records the ethnic or racial background of the victim involved in a specific criminal incident.
+
+Premis Cd - Premises Code, this field is used to describe or categorize the type of premises or location where a specific criminal incident occurred.
+
+Premis Desc - Premises Description, this field is used to provide a detailed description of the location or premises where a specific criminal incident occurred.
+
+Weapon Used Cd - Weapon Used Code, This field is used to categorize or describe the type of weapon that was used or involved in a specific criminal incident.
+
+Weapon Desc - Weapon Description, this field is used to provide a detailed description or information about the specific weapon that was used or involved in a particular criminal incident.
+
+Status - Status typically refers to the current status or disposition of a criminal case or incident. It provides information about the stage of the case or incident in the criminal justice process.
+
+Status Desc - Status Desc field offers a more comprehensive narrative or commentary on the specific circumstances and developments related to the case status.
+
+Crm Cd 1, Crm Cd 2, Crm Cd 3, Crm Cd 4 - multiple crime codes, each assigned a unique number for different types of offenses.
+
+LOCATION - In the context of crime records or law enforcement typically refers to the specific place or geographical area where a criminal incident or event occurred.
+
+Cross Street - In the context of crime records or law enforcement this field typically refers to the name of the street that intersects with the primary street where a specific incident or crime occurred.
+
+LAT - Lattitude, geographical coordinates, or location data. Latitude measures how far north or south a location is from the equator.
+
+LON - Longitude, geographical coordinates, or location data. Longitude measures how far east or west a location is from the Prime Meridian.
