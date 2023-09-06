@@ -5,15 +5,15 @@ I tried my hands on clustering data using Unsupervised Learning using KMeans and
 ## Process Overview 
 
 First I used KMeans Algorithm on my dataset
-* calculated its silhouette score
-* visulaise Elbow plot to find the optimal value of k
-* visualised the clusters obtained using KMeans.
+* Calculated its silhouette score
+* Visulaised Elbow plot to find the optimal value of k
+* Visualised the clusters obtained using KMeans.
 
 Then I used DBSCAN ALgorithm with eps=0.2 and min_samples=6
-* calculated its silhouette score
-* visualised the obtained clusters for the aforementioned values
-* found optimal values for DBSCAN paraemters eps and min_samples
-* plotted sorted k-dist graph.
+* Calculated its silhouette score
+* Visualised the obtained clusters for the aforementioned values
+* Found optimal values for DBSCAN paraemters eps and min_samples
+* Plotted sorted k-dist graph.
 
 ## Comparative Overview
  
