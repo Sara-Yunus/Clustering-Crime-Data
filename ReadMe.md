@@ -1,4 +1,4 @@
-# Crime Data Clustering using both KMeans and DBSCAN
+# Crime Data Clustering using both K-means and DBSCAN
 
 I tried my hands on clustering data using Unsupervised Learning using KMeans and Density-Based Spatial Clustering of Applications with Noise (DBSCAN). Took data in csv file format from https://data.gov/ (refer About_the_data.txt for data dictionary). I used only 1400 datapoints out of 788767 datapoints originally present. I downsized the dataset to accommodate my laptop's performance limitations.
 
